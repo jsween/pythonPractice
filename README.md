@@ -15,3 +15,7 @@ This is a python program for a user to enter their name, age and favorite number
 ### Exercise 2
 This is a simple program for a user to enter 2 numbers.  This checks if the numbers
 are even or odd.  Then check if the first number is divisible by the second number
+
+### Exercise 3
+This program has the user enter a maximum number and gives a list of numbers less than
+the user's number.
