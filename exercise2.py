@@ -23,5 +23,18 @@ def get_user_check():
     string = "Give me a 2nd number: "
     return check_if_num(string)
 
+def is_even_or_odd(num1, num2):
+    numArray = [num1, num2]
+    for x in numArray:
+        get_num_status(x)
+
+def get_num_status(num):
+    if(num % 2 == 0):
+        print(str(num) + " is even")
+    else:
+        print(str(num) + " is odd")
+
 num = get_user_num()
 check = get_user_check()
+
+is_even_or_odd(num, check)
