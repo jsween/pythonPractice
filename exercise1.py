@@ -5,7 +5,7 @@ def get_user_age():
     while (not isInteger):
         userAge = input("Please Enter Your Age: ")
         isInteger = represents_int(userAge)
-        if (isInteger == True):
+        if (isInteger):
             return int(userAge)
         else:
             print("Please insert a valid age.")
@@ -15,7 +15,7 @@ def get_fav_num():
     while (not isInteger):
         favNum = input("Please Enter Your Favorite Number: ")
         isInteger = represents_int(favNum)
-        if(isInteger == True):
+        if(isInteger):
             return int(favNum)
         else:
             print(favNum + " is not authorized to be a favorite number!!!\nPlease try again...")
