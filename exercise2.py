@@ -34,7 +34,16 @@ def get_num_status(num):
     else:
         print(str(num) + " is odd")
 
+def is_num1_divisible_num2(num1, num2):
+    if(num2 == 0):
+        print(str(num1) + " divided by 0 is undefined")
+    elif(num1 % num2 == 0):
+        print(str(num1) + " is divisible by " + str(num2))
+    else:
+        print(str(num1) + " is not divisible by " + str(num2))
+
 num = get_user_num()
 check = get_user_check()
 
 is_even_or_odd(num, check)
+is_num1_divisible_num2(num, check)
