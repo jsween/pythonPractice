@@ -16,7 +16,8 @@ def create_response(yearWhenTurn100):
     else:
         return "Congratulations " + username + "!!! This is the year you turn 100!!!"
 
-username = input("Please Enter Your First Name: \n")
+
+username = input("Please Enter Your First Name: \n").capitalize()
 
 userAge = int(input("Please Enter Your Age: \n"))
 
