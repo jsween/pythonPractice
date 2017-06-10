@@ -27,5 +27,11 @@ This program finds the divisors of a user's number
 ### Exercise 5
 This program prints out the matches between two lists
 
+### Exercise 6
+2 solutions for palindromes.  Felt like skipping the loop solution was cheating
+
+### Exercise 7
+Discovering list comprehensions 
+
 #### To Do list
 1. Add a check for inputs too high for type int
