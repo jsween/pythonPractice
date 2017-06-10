@@ -28,4 +28,4 @@ This program finds the divisors of a user's number
 This program prints out the matches between two lists
 
 #### To Do list
-1. Add a check for too high for int type
+1. Add a check for inputs too high for type int
