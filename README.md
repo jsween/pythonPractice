@@ -10,6 +10,13 @@ appreciate trying to handle edge cases.
 
 Also, this was a nice refresher on using command line and github.  
 
+### Directions for use
+1. Ensure Python 3 is installed
+2. Clone or download repository
+3. Unzip file
+4. Using Terminal, navigate to directory
+5. Type 'python exercise<x>.py'
+
 #### Exercise 1
 This is a python program for a user to enter their name, age and favorite number.
 
@@ -34,7 +41,10 @@ This program prints out the matches between two lists
 Discovering list comprehensions
 
 ### Exercise 8
-Rock, Paper, Scissors game
+Rock, Paper, Scissors Game
+
+### Exercise 9
+Guess a Num Between 1 and 9 Game
 
 #### To Do list
 1. Add a check for inputs too high for type int
