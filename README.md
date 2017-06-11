@@ -31,7 +31,11 @@ This program prints out the matches between two lists
 2 solutions for palindromes.  Felt like skipping the loop solution was cheating
 
 ### Exercise 7
-Discovering list comprehensions 
+Discovering list comprehensions
+
+### Exercise 8
+Rock, Paper, Scissors game
 
 #### To Do list
 1. Add a check for inputs too high for type int
+2. Add logic for a user's name with only 2 letters (eg KJ, TJ, CJ)
