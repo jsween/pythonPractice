@@ -46,6 +46,9 @@ Rock, Paper, Scissors Game
 ### Exercise 9
 Guess a Num Between 1 and 9 Game
 
+### Exercise 11
+Prime or not Prime program
+
 #### To Do list
 1. Add a check for inputs too high for type int
 2. Add logic for a user's name with only 2 letters (eg KJ, TJ, CJ)
